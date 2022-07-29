@@ -1,0 +1,9 @@
+.box {
+    display:flex;
+    padding: 30px;
+    text-align:justify;
+}
+
+h3 {
+    font-size: 4em;
+}
